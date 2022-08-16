@@ -5,9 +5,3 @@ resource "aws_instance" "ec2demo" {
   key_name = "tftestkey"
   instance_type = "t2.micro"
 }
-
-
-
-#AKIA2M2K46X3HHKZCGTF - Access key ID
-
-#mIfMtaxD9xrpE9sPMpBTUeId1x4UpSZuckIo0dhK Secret access key
